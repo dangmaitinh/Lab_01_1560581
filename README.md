@@ -2,7 +2,7 @@
 <ul>
 <li>Mã số sinh viên: 1560581</li>
 <li>Họ tên: Đặng Mai Tính</li>
-<li>Lớp: 15CK5</li>
+<li>Lớp: 15CK3</li>
 <li>Email: dangmaitinh21@gmail.com</li>
 <li>Điện thoại: </li>
 <li>Link facebook cá nhân: https://www.facebook.com/rynerlelouch</li>
